@@ -11,7 +11,7 @@
 Still Tasty is a virtual fridge and pantry manager that tracks food expiration dates and helps users plan groceries with ease. A calendar view enables quick overview of expiring items.  
 I developed the data model architecture for efficient food storage and shopping list generation.
 
-📸 *[Insert media here]*  
+<img src="media/StillTastyWelcomeView.png" width="600"/> <img src="media/ShoppingListView.png" width="600"/> <img src="media/My FoodView.png" width="600"/> <img src="media/CalendarView.png" width="600"/>
 🛠️ Swift, SwiftUI, Custom Data Models
 
 ---
