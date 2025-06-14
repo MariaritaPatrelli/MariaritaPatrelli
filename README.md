@@ -31,13 +31,19 @@ I managed the user interface logic, interest selection flow, and also coordinate
 
 ---
 
-### 🛡️ Safe Place
+  **Safe Place**
+
+![Image](https://github.com/user-attachments/assets/8ba660b0-0fcf-43e2-b799-dd363a3ddb1c)
+
+
 **Role:** Solo Developer  
 Safe Place helps users quickly locate nearby police stations and call for help via geolocation. It also supports FaceTime calls to trusted contacts while keeping the map visible.  
 The app was fully designed and built by me, integrating MapKit and CoreLocation for real-time location services.
 
-![Image](https://github.com/user-attachments/assets/926d0312-7b2f-491b-b637-df9193459edf) ![Image](https://github.com/user-attachments/assets/c858f06a-c80c-48ed-a111-e0e9616b2d6e) 
-![Image](https://github.com/user-attachments/assets/fe89ce92-61fc-481d-8f3e-9b6b33d735d5) ![Image](https://github.com/user-attachments/assets/bf74c2a0-5cd0-4c35-849f-fd2360790eb0) 
+![Image](https://github.com/user-attachments/assets/f8d05a54-5a6b-42fb-886a-087d9e3e2786)
+![Image](https://github.com/user-attachments/assets/31fd8ef2-74b3-44a8-9e67-8f35bd76f88e)
+![Image](https://github.com/user-attachments/assets/6c7ab671-51c2-48ff-a796-0ea6d149194e)
+![Image](https://github.com/user-attachments/assets/6d25c2e5-8977-4fa4-be27-1a505ddc8449)
 
 
 🛠️ MapKit, CoreLocation, SwiftUI, FaceTime Integration
@@ -49,7 +55,9 @@ The app was fully designed and built by me, integrating MapKit and CoreLocation 
 Lysta allows users to create playlists through voice input and sync them with Apple Music. It also includes experimental Spotify support and playlist refresh features.  
 I implemented the MusicKit logic and handled audio data conversion from third-party APIs.
 
-![Image](https://github.com/user-attachments/assets/555bd168-7eb0-44b5-9247-454d38611f16) ![Image](https://github.com/user-attachments/assets/d915bc2d-3e0d-4f33-8f15-82b63a3786b2) ![Image](https://github.com/user-attachments/assets/0db48ae2-4330-482f-b6c9-cd5fce48d9ff)
+![Image](https://github.com/user-attachments/assets/93bd370c-d909-478c-bf72-f6171eabfca7)
+![Image](https://github.com/user-attachments/assets/4d961663-2931-4523-bdc9-b2d6ea1baa2f)
+![Image](https://github.com/user-attachments/assets/28ffaf6f-0f1c-4521-bc0d-df2b6fa66ee5)
 
 
 🛠️ MusicKit, MediaKit, SwiftUI, UIKit
@@ -63,11 +71,10 @@ I implemented the MusicKit logic and handled audio data conversion from third-pa
 Flokin' lets users document and share past, present, and future trips using interactive maps. Travel data can be exported to PDF and shared via AirDrop or external platforms.  
 I worked on the map interface and trip sharing functionality.
 
-![Image](https://github.com/user-attachments/assets/6405793b-9297-4e30-b0f9-9c32f2d5a7cf)
-![Image](https://github.com/user-attachments/assets/05ceb2ab-9391-4329-99f6-569dee9c63c8)
-![Image](https://github.com/user-attachments/assets/4fe25308-a733-4c00-9d39-a2639e5833aa)
-![Image](https://github.com/user-attachments/assets/8eadfb91-e129-4528-be9d-047f98fc1551)
-
+![Image](https://github.com/user-attachments/assets/206f4cab-f87d-4060-a898-e7b2b6c0b6ec)
+![Image](https://github.com/user-attachments/assets/be876386-8a9e-4eb6-b5ec-e148f061cab9)
+![Image](https://github.com/user-attachments/assets/ec825e24-eeca-48ef-9c45-1d35dd17b8f8)
+![Image](https://github.com/user-attachments/assets/b15189e6-fe44-4bba-83e9-8eb41c8355fe)
 
 🛠️ SwiftUI, MapKit, CoreLocation, PDF Export
 
