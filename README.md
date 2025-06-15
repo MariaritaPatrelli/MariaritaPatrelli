@@ -7,7 +7,13 @@
 ## 🚀 Projects
 
 ### 🧊 Still Tasty
+
+
+![Image](https://github.com/user-attachments/assets/ddc5cc4c-81ff-4604-89f1-bdca8716ae42)
+
 **Role:** Back-End Developer  
+🛠️ Swift, SwiftUI, Custom Data Models
+
 Still Tasty is a virtual fridge and pantry manager that tracks food expiration dates and helps users plan groceries with ease. A calendar view enables quick overview of expiring items.  
 I developed the data model architecture for efficient food storage and shopping list generation.
 
@@ -17,17 +23,24 @@ I developed the data model architecture for efficient food storage and shopping 
 [GitHub](https://github.com/MariaritaPatrelli/Still-Tasty-Organise-your-Food)
 
 
-🛠️ Swift, SwiftUI, Custom Data Models
+
 
 ---
 
 ### 📰 Anto-News
+
+![Image](https://github.com/user-attachments/assets/a963e9b9-dde4-4534-bfdd-7189a925379f)
+
 **Role:** UI Developer & Team Lead  
+🛠️  SwiftUI, External APIs, Notifications
+
 Anto-News delivers daily articles tailored to user interests using a reliable external API. It filters out fake news and reduces information overload by sending only one article per day.  
 I managed the user interface logic, interest selection flow, and also coordinated the development team.
 
-📸 *[Insert media here]*  
-🛠️ SwiftUI, API Integration, Notifications
+![Image](https://github.com/user-attachments/assets/af6874b1-2843-4d7a-83c3-47a8794b94fb) 
+
+
+
 
 ---
 
@@ -37,6 +50,8 @@ I managed the user interface logic, interest selection flow, and also coordinate
 
 
 **Role:** Solo Developer  
+🛠️ Swift, SwiftUI, MapKit, CoreLocation, FaceTime Integration
+
 Safe Place helps users quickly locate nearby police stations and call for help via geolocation. It also supports FaceTime calls to trusted contacts while keeping the map visible.  
 The app was fully designed and built by me, integrating MapKit and CoreLocation for real-time location services.
 
@@ -46,12 +61,17 @@ The app was fully designed and built by me, integrating MapKit and CoreLocation 
 ![Image](https://github.com/user-attachments/assets/6d25c2e5-8977-4fa4-be27-1a505ddc8449)
 
 
-🛠️ MapKit, CoreLocation, SwiftUI, FaceTime Integration
+
 
 ---
 
 ### 🎵 Lysta
+
+![Image](https://github.com/user-attachments/assets/5a37fdca-d5ee-457a-a3a1-201a50a1400e)
+
 **Role:** MusicKit & API Developer  
+🛠️ MusicKit, MediaKit, SwiftUI, UIKit
+
 Lysta allows users to create playlists through voice input and sync them with Apple Music. It also includes experimental Spotify support and playlist refresh features.  
 I implemented the MusicKit logic and handled audio data conversion from third-party APIs.
 
@@ -60,14 +80,19 @@ I implemented the MusicKit logic and handled audio data conversion from third-pa
 ![Image](https://github.com/user-attachments/assets/28ffaf6f-0f1c-4521-bc0d-df2b6fa66ee5)
 
 
-🛠️ MusicKit, MediaKit, SwiftUI, UIKit
+
 
 
 -[TestFligh](https://testflight.apple.com/join/N46wXDSa)
 ---
 
 ### 🧳 Flokin'
+
+![Image](https://github.com/user-attachments/assets/516f8e46-48c8-41e2-a8ec-53fde4335fa7)
+
 **Role:** iOS Developer  
+🛠️ Swift, SwiftUI, MapKit, CoreLocation, PDF Export
+
 Flokin' lets users document and share past, present, and future trips using interactive maps. Travel data can be exported to PDF and shared via AirDrop or external platforms.  
 I worked on the map interface and trip sharing functionality.
 
@@ -76,7 +101,7 @@ I worked on the map interface and trip sharing functionality.
 ![Image](https://github.com/user-attachments/assets/ec825e24-eeca-48ef-9c45-1d35dd17b8f8)
 ![Image](https://github.com/user-attachments/assets/b15189e6-fe44-4bba-83e9-8eb41c8355fe)
 
-🛠️ SwiftUI, MapKit, CoreLocation, PDF Export
+
 
 
 -[TestFlight](https://testflight.apple.com/join/N46wXDSa)
@@ -91,7 +116,7 @@ I worked on the map interface and trip sharing functionality.
 
 ---
 
-## 📬 Let's Connect
+## 📬 Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mariarita-patrelli-03709a364/)
 - ✉️ [Email Me](mariaritapatrelli@gmail.com)
