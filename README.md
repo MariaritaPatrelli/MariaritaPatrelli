@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Mariarita Patrelli
 
-🎓 iOS Developer | Swift, SwiftUI, MapKit | Passionate about building smart, human-centric apps
+During my educational experience, I had the opportunity to engage with different cultural environments. I am passionate, creative, and results-oriented. Working in a team is one of my strengths: I feel comfortable collaborating, sharing ideas, and tackling common challenges. My greatest passions are volleyball, music, and photography. I have a strong interest in medical and biomedical technologies, as well as biomedical research and digital health. I dream of one day making healthcare more accessible and within reach for those who need it.
+
+🎓 iOS Developer, Biomedical Engineering | Swift, SwiftUI, MapKit, CoreLocation, MediaKit, CloudKit, UIKit | Passionate about building smart, human-centric apps
 
 ---
 
